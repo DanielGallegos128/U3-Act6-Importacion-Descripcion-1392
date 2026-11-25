@@ -1,6 +1,7 @@
 # ==========================================
 # CASO 1: IDENTIFICACIÓN DE PROBLEMAS
 # DATASET: TITANIC
+# ALUMNO: Daniel Gallegos NC 1392
 # ==========================================
 import pandas as pd
 import numpy as np
